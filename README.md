@@ -1,5 +1,5 @@
 # ansi-escape-sequences-unison
-A small library serving ANSI escape codes and sequences for use in the terminal
+A small [Unison](https://www.unisonweb.org/) library serving [ANSI escape codes and sequences](https://en.wikipedia.org/wiki/ANSI_escape_code) for use in the terminal.
 
 ## Functionality
 
