@@ -42,5 +42,8 @@ When we run it, we can expect it to print "line", go back 3 characters, overwrit
 lakeside
 ```
 
+### Erasing
+The `erase` namespace contains the `display` and `inLine` functions for erasing part or all of the screen or line, respectively.
+
 ## Acknowledgements
 - Big shoutout to [75lb](https://github.com/75lb) for creating the Javascript library this project is modeled after: https://github.com/75lb/ansi-escape-sequences
