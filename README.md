@@ -45,5 +45,11 @@ lakeside
 ### Erasing
 The `erase` namespace contains the `display` and `inLine` functions for erasing part or all of the screen or line, respectively.
 
+## Installation
+Pull the code into `ucm` via:
+```
+pull https://github.com/samgqroberts/ansi-escape-sequences-unison:.v1 external.ansi_escape_sequences_unison.v1
+```
+
 ## Acknowledgements
 - Big shoutout to [75lb](https://github.com/75lb) for creating the Javascript library this project is modeled after: https://github.com/75lb/ansi-escape-sequences
