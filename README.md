@@ -45,10 +45,12 @@ lakeside
 ### Erasing
 The `erase` namespace contains the `display` and `inLine` functions for erasing part or all of the screen or line, respectively.
 
+The top-level `clear` term will clear the entire screen and reset the cursor position.
+
 ## Installation
 Pull the code into `ucm` via:
 ```
-pull https://github.com/samgqroberts/ansi-escape-sequences-unison:.v1 external.ansi_escape_sequences_unison.v1
+pull https://github.com/samgqroberts/ansi-escape-sequences-unison:.v2 external.ansi_escape_sequences_unison.v2
 ```
 
 ## Acknowledgements
